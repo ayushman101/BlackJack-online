@@ -1,0 +1,23 @@
+body {
+background-color: powderblue;
+font-family: 'Lucida Grande';
+
+background-image: url("track-anime-art-anime-girl-train-station-wallpaper-preview.jpg");
+background-size: cover;
+
+font-weight: bold;
+}
+
+h1 {
+color : white ;
+}
+
+#pr_id
+{
+	color:white;
+}
+
+#cell
+{
+	color:white;
+}
